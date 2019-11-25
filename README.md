@@ -1,17 +1,10 @@
 # wondrx_assignment
 
-A new Flutter application.
+Please create an app with a list view that will load Michael Jackson songs from Itunes API and save in local db.
+For the json data you can call the url below:
+https://itunes.apple.com/search?term=Michael+jackson
+ All the images should be loaded into the list view asynchronously for smooth scrolling.
+Extra points: When an item is clicked open another activity to display some more details.
+App flow : Rest API --> Local DB---> Listview 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# WonDRx_Flutter
